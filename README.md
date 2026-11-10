@@ -169,6 +169,12 @@ ERRO: O beneficio deste mes ja foi pago.
 
 O sistema identifica que o pagamento já foi registrado e impede uma segunda liberação para o mesmo mês.
 
+## 4. Exemplo de resultado de um dos testes:
+
+
+<img width="327" height="302" alt="image" src="https://github.com/user-attachments/assets/607359d8-651f-477d-bba7-4d8a307df708" />
+
+
 ---
 
 ## Observação
