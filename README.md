@@ -2,7 +2,9 @@
 
 ## Sobre o projeto
 
-Sistema desenvolvido em Python para demonstrar a automatização do pagamento mensal de benefícios utilizando uma regra de negócio baseada na validação de atestado de óbito por um oráculo.
+Sistema desenvolvido em Python para demonstrar a automatização do pagamento mensal de benefícios utilizando uma regra de negócio baseada na validação de atestado de óbito por um oráculo. 
+
+EQUIPE 5 - Disciplina Inovação em Soluções Computacionais
 
 ## Regra de negócio
 
